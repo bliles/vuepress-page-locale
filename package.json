@@ -1,0 +1,24 @@
+{
+    "name": "vuepress-plugin-page-locale",
+    "version": "1.0.0",
+    "description": "Vuepress plugin to add page locale to the page data",
+    "main": "index.js",
+    "publishConfig": {
+      "access": "public"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bliles/vuepress-page-locale.git"
+    },
+    "keywords": [
+      "vue",
+      "vuepress",
+      "generator"
+    ],
+    "author": "Brandon Liles <brandon.liles@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/bliles/vuepress-page-locale/issues"
+    },
+    "homepage": "https://github.com/bliles/vuepress-page-locale#readme"
+  }
